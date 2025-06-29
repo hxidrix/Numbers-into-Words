@@ -1,6 +1,6 @@
  # Custom Formula for Converting Numbers into Words in Excel
 
-This project involves creating a custom formula in Excel that converts numeric values into written words, such as "1000" being converted into "One Thousand". The formula is developed using VBA (Visual Basic for Applications) code, and it simplifies the process of displaying numbers as words within Excel. Here's how you can implement and use the custom formula:
+This project involves creating a custom formula in Excel that converts numeric values into written words, such as "1000" being converted into "One Thousand". The formula is developed using VBA (Visual Basic for Applications) code and it simplifies the process of displaying numbers as words within Excel. Here's how you can implement and use the custom formula:
 
 **Method:**
 
@@ -35,7 +35,7 @@ This project involves creating a custom formula in Excel that converts numeric v
      Replace **A1** with the reference of the cell containing the number you want to convert.
 
 9. **Currency Formatting**:
-   - The formula automatically converts the number into words, and it will also work for converting numbers into dollar currency, such as "One Thousand Dollars" for "1000".
+   - The formula automatically converts the number into words and it will also work for converting numbers into dollar currency, such as "One Thousand Dollars" for "1000".
 
 
 
@@ -61,6 +61,6 @@ If you wish to change the currency from dollars to another type, follow these st
 
 ---
 
-This custom formula provides a streamlined way to convert numbers into words directly within Excel, making it especially useful for reports, invoices, and other financial documents. By following the steps above, users can easily integrate and use the formula in their own Excel workbooks. Additionally, users can modify the currency by following the steps to replace the default "dollars" with any other currency, ensuring flexibility for different financial applications.
+This custom formula provides a streamlined way to convert numbers into words directly within Excel, making it especially useful for reports, invoices and other financial documents. By following the steps above, users can easily integrate and use the formula in their own Excel workbooks. Additionally, users can modify the currency by following the steps to replace the default "dollars" with any other currency, ensuring flexibility for different financial applications.
 
 **Note:** The file contains macros, so it should only be opened in a macro-enabled Excel format (.xlsm) for all functionalities, including automated calculations and payslip generation, to work properly.
